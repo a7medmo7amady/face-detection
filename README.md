@@ -4,7 +4,6 @@ This Python application uses OpenCV to detect faces in images or video streams.
 
 ## Features
 
-- Detect faces in static images
 - Real-time face detection using webcam
 - Supports multiple face detection
 
